@@ -1,0 +1,7 @@
+__pycache__/
+*.db
+*.pyc
+google/
+database.py
+models.py
+main.py
